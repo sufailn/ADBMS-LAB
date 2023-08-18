@@ -1,4 +1,3 @@
-
 create database Trig;
 use trig;
  create table phonebook(pname varchar(15),mobno varchar(12));
